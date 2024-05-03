@@ -1,7 +1,7 @@
 # Optional Arguments with Defaults for Gleam
 
-[![Package Version](https://img.shields.io/hexpm/v/fake_opt_args)](https://hex.pm/packages/fake_opt_args)
-[![Hex Docs](https://img.shields.io/badge/hex-docs-ffaff3)](https://hexdocs.pm/fake_opt_args/)
+[![Package Version](https://img.shields.io/hexpm/v/opt_args_with_defs_for_gleam)](https://hex.pm/packages/opt_args_with_defs_for_gleam)
+[![Hex Docs](https://img.shields.io/badge/hex-docs-ffaff3)](https://hexdocs.pm/opt_args_with_defs_for_gleam/)
 
 ## Notice
 
@@ -46,7 +46,7 @@ pub fn main() {
 }
 ```
 
-Further documentation can be found at <https://hexdocs.pm/fake_opt_args>.
+Further documentation can be found at <https://hexdocs.pm/opt_args_with_defs_for_gleam>.
 
 ## Development
 
