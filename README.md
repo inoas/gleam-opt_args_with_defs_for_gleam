@@ -10,7 +10,7 @@ used to explore how a gleam library public API _would_ look like if gleam
 ever supported optional arguments with defaults out of the box.
 
 ```shell
-gleam add fake_opt_args
+gleam add opt_args_with_defs_for_gleam
 ```
 
 ```gleam
