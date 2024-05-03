@@ -1,0 +1,12 @@
+name = "opt_args_with_defs_for_gleam"
+version = "1.0.0"
+description = "Optional Arguments with Defaults for Gleam - A cursed workaround"
+licences = ["Apache-2.0"]
+repository = { type = "github", user = "inoas", repo = "opt_args_with_defs_for_gleam" }
+gleam = ">= 1.0.0 and < 2.0.0"
+
+[dependencies]
+gleam_stdlib = ">= 0.34.0 and < 2.0.0"
+
+[dev-dependencies]
+gleeunit = ">= 1.0.0 and < 2.0.0"
