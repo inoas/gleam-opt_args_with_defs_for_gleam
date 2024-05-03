@@ -3,15 +3,21 @@
 [![Package Version](https://img.shields.io/hexpm/v/fake_opt_args)](https://hex.pm/packages/fake_opt_args)
 [![Hex Docs](https://img.shields.io/badge/hex-docs-ffaff3)](https://hexdocs.pm/fake_opt_args/)
 
-Notice: You can be doing quite a bunch of things wrong and get runtime errors.
+## Notice
+
+One can be doing quite a bunch of things wrong and get runtime errors.
 
 This library is more a cursed hack than a good solution and should be mostly
 used to explore how a gleam library public API _would_ look like if gleam
 ever supported optional arguments with defaults out of the box.
 
+## Installation
+
 ```shell
 gleam add opt_args_with_defs_for_gleam
 ```
+
+## Example
 
 ```gleam
 import gleam/io
@@ -45,6 +51,5 @@ Further documentation can be found at <https://hexdocs.pm/fake_opt_args>.
 ## Development
 
 ```sh
-gleam run   # Run the project
 gleam test  # Run the tests
 ```
